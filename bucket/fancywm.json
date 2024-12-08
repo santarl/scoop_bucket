@@ -9,6 +9,7 @@
         }
     },
     "bin": "FancyWM.exe",
+    "hash": "5cbf44601f27d7a6f569439e40bf784da82b13372efce9af273925221c5d1aa7",
     "shortcuts": [
         [
             "FancyWM.exe",
