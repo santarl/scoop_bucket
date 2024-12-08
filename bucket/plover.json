@@ -19,7 +19,7 @@
         {
             "name": "Plover",
             "target": "plover.exe",
-            "working_dir": "plover-4.0.0rc2-win64",
+            "working_dir": "plover-$version",
             "icon": "plover.ico",
             "description": "Launch Plover Stenography Engine"
         }
