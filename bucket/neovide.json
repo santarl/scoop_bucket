@@ -23,7 +23,7 @@
         ],
         [
             "neovide.exe",
-            "Neovide Terminal",
+            "term1",
             "-- -c terminal"
         ]
     ],
