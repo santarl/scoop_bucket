@@ -58,8 +58,8 @@
     },
     "autoupdate": {
         "url": [
-            "https://github.com/univrsal/input-overlay/releases/download/v$version/input-overlay-$version-windows-x64.zip",
-            "https://github.com/univrsal/input-overlay/releases/download/v$version/input-overlay-$version-presets.zip"
+            "https://github.com/univrsal/input-overlay/releases/download/$version/input-overlay-$version-windows-x64.zip",
+            "https://github.com/univrsal/input-overlay/releases/download/$version/input-overlay-$version-presets.zip"
         ]
     }
 }
