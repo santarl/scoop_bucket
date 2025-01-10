@@ -1,0 +1,13 @@
+{
+    "version": "2.1.0.4",
+    "description": "PlayStation Accessories",
+    "homepage": "https://www.playstation.com/",
+    "url": "https://fwupdater.dl.playstation.net/fwupdater/PlayStationAccessoriesInstaller.exe",
+    "shortcuts": [
+        [
+            "PlayStation Accessories Installer",
+            "PlayStationAccessoriesInstaller.exe"
+        ]
+    ],
+    "long_description": "Take full advantage of your DualSense and DualSense Edge wireless controller from your Windows PC. Keep your controllers up to date and customize your settings."
+}
