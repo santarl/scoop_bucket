@@ -3,14 +3,14 @@
     "description": "kbscroll is a tiny (<20kb) utility written in Rust that allows you to send scroll events through the terminal.",
     "homepage": "https://github.com/santarl/kbscroll",
     "license": "MIT",
-    "url": "https://github.com/santarl/kbscroll/releases/latest/download/kbscroll_tiny.exe",
+    "url": "https://github.com/santarl/kbscroll/releases/latest/download/kbscroll.exe",
     "hash": "sha256:d46204f63b656112f07103314815753158d4c83be27c346a460f6740eb700fcb",
     "bin": "kbscroll.exe",
     "checkver": {
         "github": "santarl/kbscroll"
     },
     "autoupdate": {
-        "url": "https://github.com/santarl/kbscroll/releases/latest/download/kbscroll_tiny.exe",
+        "url": "https://github.com/santarl/kbscroll/releases/latest/download/kbscroll.exe",
         "hash": {
             "url": "https://github.com/santarl/kbscroll/releases/latest",
             "regex": "kbscroll_tiny.exe.*?([a-f0-9]{64})"
