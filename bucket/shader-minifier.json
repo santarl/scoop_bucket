@@ -13,6 +13,6 @@
         "url": "https://github.com/laurentlb/shader-minifier/releases/download/$version/shader_minifier.exe"
     },
     "notes": [
-        "Reminder: To run the binary, use 'shader_minifier' (with an underscore) instead of 'shader-minifier' (with a hyphen) as indicated by the GitHub project name."
+        "Reminder: To run the binary, use 'shader_minifier' (with an underscore) instead of 'shader-minifier' (with a hyphen)"
     ]
 }
