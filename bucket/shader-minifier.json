@@ -5,7 +5,9 @@
     "license": "Apache-2.0",
     "url": "https://github.com/laurentlb/shader-minifier/releases/download/1.4.0/shader_minifier.exe",
     "hash": "7a4bd1605a0e3d3cc501265a439be2888c4865c3694518f7ba41200f5808d610",
-    "bin": "shader_minifier.exe",
+    "bin": [
+        ["shader_minifier.exe", "shader-minifier"]
+    ],
     "checkver": {
         "github": "laurentlb/shader-minifier"
     },
