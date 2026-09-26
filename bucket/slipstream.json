@@ -6,6 +6,7 @@
     "url": "https://github.com/jun-eau/Slipstream/releases/download/v1.9.1/Slipstream.exe",
     "hash": "aa0085bbc5c4fac2b83b2a240987c5358cb4570a2e0213c1eccf04fdfd00b622",
     "bin": "Slipstream.exe",
+    "pre_install": "if (!(Test-Path \"$dir\\config.json\")) { \"{}\" | Out-File \"$dir\\config.json\" -Encoding utf8 -NoNewline }",
     "persist": "config.json",
     "checkver": {
         "github": "jun-eau/Slipstream"
